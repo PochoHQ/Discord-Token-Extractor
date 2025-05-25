@@ -30,6 +30,12 @@ Ideal para desarrolladores, usuarios avanzados y cualquiera que necesite acceso 
 
 ## ⚙️ How to use / Cómo usar
 
+
+
+
+![imagen](https://github.com/user-attachments/assets/5b9def6f-28cf-4926-aabd-5c611659bc1e)
+
+
 1. Open Discord in your browser (or web app).  
    Abre Discord en tu navegador (o la app web).
 2. Open Developer Tools (press `F12` or `Ctrl + Shift + I` / `Cmd + Option + I`).  
